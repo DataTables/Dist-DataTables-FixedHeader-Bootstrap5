@@ -3,6 +3,7 @@
     "description": "FixedHeader for DataTables with styling for [Bootstrap5](https://getbootstrap.com/)",
     "main": "js/fixedHeader.bootstrap5.js",
     "style": "css/fixedHeader.bootstrap5.css",
+    "types": "./types/fixedHeader.bootstrap5.d.ts",
     "version": "3.1.8",
     "files": [
         "css/**/*.css",
