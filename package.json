@@ -4,7 +4,7 @@
     "main": "js/fixedHeader.bootstrap5.js",
     "style": "css/fixedHeader.bootstrap5.css",
     "types": "./types/fixedHeader.bootstrap5.d.ts",
-    "version": "3.2.1",
+    "version": "3.2.2",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
