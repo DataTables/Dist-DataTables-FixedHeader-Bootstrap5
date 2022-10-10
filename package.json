@@ -2,12 +2,14 @@
     "name": "datatables.net-fixedheader-bs5",
     "description": "FixedHeader for DataTables with styling for [Bootstrap5](https://getbootstrap.com/)",
     "main": "js/fixedHeader.bootstrap5.js",
+    "module": "js/fixedHeader.bootstrap5.mjs",
     "style": "css/fixedHeader.bootstrap5.css",
     "types": "./types/fixedHeader.bootstrap5.d.ts",
     "version": "3.2.4",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
+        "js/**/*.mjs",
         "types/**/*.d.ts"
     ],
     "keywords": [

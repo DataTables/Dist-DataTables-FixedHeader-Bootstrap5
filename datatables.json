@@ -1,7 +1,9 @@
 {
     "js": [
         "js/fixedHeader.bootstrap5.js",
-        "js/fixedHeader.bootstrap5.min.js"
+        "js/fixedHeader.bootstrap5.min.js",
+        "js/fixedHeader.bootstrap5.min.mjs",
+        "js/fixedHeader.bootstrap5.mjs"
     ],
     "css": [
         "css/fixedHeader.bootstrap5.css",
@@ -11,6 +13,5 @@
         "types/fixedHeader.bootstrap5.d.ts"
     ],
     "src-repo": "http://github.com/DataTables/FixedHeader",
-    "last-tag": "3.2.2",
-    "last-sync": "9a8a4239841a494bd2c6c7615084524658964bcd"
+    "last-tag": "3.2.4"
 }
