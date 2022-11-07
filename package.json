@@ -5,7 +5,7 @@
     "module": "js/fixedHeader.bootstrap5.mjs",
     "style": "css/fixedHeader.bootstrap5.css",
     "types": "./types/types.d.ts",
-    "version": "3.3.0",
+    "version": "3.3.1",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
